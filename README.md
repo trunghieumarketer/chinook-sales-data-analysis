@@ -1,4 +1,4 @@
-# chinook-sales-data-analysis
+
 # Chinook Digital Music Store - Sales Data Analysis 🎵📊
 
 **Course:** MIS 443 - Business Data Management  
