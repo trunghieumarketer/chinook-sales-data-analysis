@@ -7,7 +7,7 @@
 
 ## 👥 Team Members
 * **Pham Hoang Phuc** (IRN: 2232300244)
-* **Dang Ho Trung Hieu** (IRN: 2232300...)
+* **Dang Ho Trung Hieu** (IRN: 2232300128)
 
 ## 📝 Project Overview
 This repository contains the final project for the MIS 443 course. The objective of this project is to perform a comprehensive data analysis on the **Chinook Database** (a relational database simulating a global digital media store). 
